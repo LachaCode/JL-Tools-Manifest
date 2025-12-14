@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "updatedAt": "2025-12-14T12:00:00Z",
+  "plugins": [
+    {
+      "id": "jl_editor_notes",
+      "displayName": "JL Editor Notes",
+      "pluginFolderName": "JL_Editor_Notes",
+      "moduleName": "JL_Editor_Notes",
+      "minEngine": "5.4",
+      "maxEngine": "5.7",
+      "latestVersion": "1.0.1",
+      "docsUrl": "https://twojadomena.pl/jl-tools/notes",
+      "marketUrl": "https://www.fab.com/...",
+    }
+  ]
+}
