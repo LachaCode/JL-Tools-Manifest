@@ -1,19 +1,17 @@
 {
   "plugins": [
     {
-      "name": "JL_Editor_Notes",
       "pluginName": "JL_Editor_Notes",
-      "folderName": "JL_Editor_Notes",
+      "displayName": "JL Editor Notes",
       "version": "1.0.0",
-      "fabUrl": "https://www.fab.com/listings/xxxx",
+      "fabUrl": "https://www.fab.com/listings/xxxxx",
       "enabledByDefault": true
     },
     {
-      "name": "JL_Editor_Whiteboard",
       "pluginName": "JL_Editor_Whiteboard",
-      "folderName": "JL_Editor_Whiteboard",
+      "displayName": "JL Editor Whiteboard",
       "version": "0.9.2",
-      "fabUrl": "https://www.fab.com/listings/yyyy",
+      "fabUrl": "https://www.fab.com/listings/yyyyy",
       "enabledByDefault": false
     }
   ]
