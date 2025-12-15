@@ -7,7 +7,8 @@
       "fabUrl": "https://www.fab.com/listings/xxxxx",
       "description": "This plugin adds a notepad to the engine.",
       "documentationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link",
-      "InstallationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link#2ca0d9b2c8fa808b9f61efa7c9190c63"
+      "InstallationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link#2ca0d9b2c8fa808b9f61efa7c9190c63",
+      "iconUrl": "https://lachacode.github.io/JL-Tools-Manifest/Icons/JL_EditorTool_EditorNotes.PNG"
     },
     {   
       "pluginName": "JL_Editor_Whiteboard",
@@ -16,7 +17,8 @@
       "fabUrl": "https://www.fab.com/listings/xxxxx",
       "description": "This plugin adds a notepad to the engine.",
       "documentationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link",
-      "InstallationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link#2ca0d9b2c8fa808b9f61efa7c9190c63"
+      "InstallationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link#2ca0d9b2c8fa808b9f61efa7c9190c63",
+      "iconUrl": "https://lachacode.github.io/JL-Tools-Manifest/Icons/JL_EditorTool_Whiteboard.PNG"
     }
   ]
 }
