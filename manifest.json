@@ -13,7 +13,7 @@
     {   
       "pluginName": "JL_Editor_Whiteboard",
       "displayName": "Whiteboard Tool",
-      "version": "0.9.2",
+      "version": "0.9.3",
       "fabUrl": "https://www.fab.com/listings/xxxxx",
       "description": "This plugin adds a notepad to the engine.",
       "documentationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link",
