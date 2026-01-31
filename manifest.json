@@ -12,7 +12,7 @@
       "ToolReference": "/Script/Blutility.EditorUtilityWidgetBlueprint'/JL_Editor_Notes/Blueprints/EUW_Editor_Notes_Logic.EUW_Editor_Notes_Logic'"
     },
     {   
-      "pluginName": "JL_Editor_Whiteboard",
+      "pluginName": "JL_Whiteboard_Tool",
       "displayName": "Whiteboard Tool",
       "version": "0.9.3",
       "fabUrl": "https://www.fab.com/listings/xxxxx",
