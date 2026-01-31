@@ -14,7 +14,7 @@
     {   
       "pluginName": "JL_Whiteboard_Tool",
       "displayName": "Whiteboard Tool",
-      "version": "0.9.3",
+      "version": "1.0.0",
       "fabUrl": "https://www.fab.com/listings/xxxxx",
       "description": "This plugin adds a Whiteboard to the engine.",
       "documentationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link",
