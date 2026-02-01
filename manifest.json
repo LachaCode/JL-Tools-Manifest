@@ -17,8 +17,8 @@
       "version": "1.0.0",
       "fabUrl": "https://www.fab.com/listings/xxxxx",
       "description": "This plugin adds a Whiteboard to the engine.",
-      "documentationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link",
-      "InstallationUrl": "https://www.notion.so/Editor-Notes-for-Unreal-Engine-2ca0d9b2c8fa80a98b39e4a8edf6abd2?source=copy_link#2ca0d9b2c8fa808b9f61efa7c9190c63",
+      "documentationUrl": "https://www.notion.so/Whiteboard-Tool-for-Unreal-Engine-2be0d9b2c8fa8034ba2ada4d1ef10744",
+      "InstallationUrl": "https://www.notion.so/Whiteboard-Tool-for-Unreal-Engine-2be0d9b2c8fa8034ba2ada4d1ef10744?source=copy_link#2be0d9b2c8fa8075b4ddea65907c8612",
       "iconUrl": "https://lachacode.github.io/JL-Tools-Manifest/Icons/JL_EditorTool_Whiteboard.PNG",
       "ToolReference": "/Script/Blutility.EditorUtilityWidgetBlueprint'/JL_Whiteboard_Tool/EUW_Whiteboard_Tool.EUW_Whiteboard_Tool'"
     }
